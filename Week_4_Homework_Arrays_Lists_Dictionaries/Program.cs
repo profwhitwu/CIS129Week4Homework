@@ -1,4 +1,4 @@
-﻿// REMINDER, array indexs START AT 0 in C#.  So the first element will be of index 0.
+﻿// REMINDER, array indexes START AT 0 in C#.  So the first element will be of index 0.
 
 // 1. Create a single-dimensional array of type int.  Populate it with 6 numbers.
 

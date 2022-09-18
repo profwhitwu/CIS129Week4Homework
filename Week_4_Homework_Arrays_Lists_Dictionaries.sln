@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week_4_Homework_Arrays_Lists_Dictionaries", "Week_4_Homework_Arrays_Lists_Dictionaries\Week_4_Homework_Arrays_Lists_Dictionaries.csproj", "{AFC5F03E-A7C4-4CA3-92AA-8950548B724E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC5F03E-A7C4-4CA3-92AA-8950548B724E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC5F03E-A7C4-4CA3-92AA-8950548B724E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC5F03E-A7C4-4CA3-92AA-8950548B724E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC5F03E-A7C4-4CA3-92AA-8950548B724E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D353C1DF-D2A6-47FF-BE48-A3F77E73CBF1}
+	EndGlobalSection
+EndGlobal
